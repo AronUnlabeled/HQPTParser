@@ -1,0 +1,24 @@
+A lot of these values are not required but the column may still need to exist on the output in order to match the format of the example output.
+
+journal - not in the input
+date - ok
+description - not in the input
+line number - ok
+account number - ok
+Location ID - not in the input.
+memo -  this is "reference deatail" in the input
+debit - ok
+credit - ok
+source entity - not in the input
+currency - ok
+Exchange rate date - not in the input
+Exchange rate - not in the input 
+exchange rate type ID - not in the input.
+State - not in the input
+Alocation_ID- not in the input
+billable - not in the input 
+gentry_customer ID - not in the input 
+gentry vendorid - not in the input 
+gentry_class ID - not in the input
+gentry project id - not in the input
+
