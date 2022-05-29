@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.AssemblyInfo.cs
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.exe
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.deps.json
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.runtimeconfig.json
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.runtimeconfig.dev.json
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.dll
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\ref\HQPTParser.dll
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\bin\Debug\net5.0\HQPTParser.pdb
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.dll
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\ref\HQPTParser.dll
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.pdb
+C:\Users\aron\source\repos\HQPTParser\HQPTParser\obj\Debug\net5.0\HQPTParser.genruntimeconfig.cache
